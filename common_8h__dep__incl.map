@@ -1,0 +1,7 @@
+<map id="src/common.h" name="src/common.h">
+<area shape="rect" id="Node000001" title="Common rdesc utilities." alt="" coords="159,5,274,31"/>
+<area shape="rect" id="Node000002" href="$bc__interpreter_8h.html" title="Basic interpreter for bc." alt="" coords="5,79,217,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,41,130,81,127,76,187,36"/>
+<area shape="rect" id="Node000003" href="$exblex_8c_source.html" title=" " alt="" coords="241,79,406,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,36,307,76,304,81,244,40"/>
+</map>

@@ -72,7 +72,8 @@ $(function() {
   <div class="headertitle"><div class="title">Parser State Machine</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p>Let's take a quick look at how the functions in rdesc's public API affect its state:  docs/parser-state-machine.dot</p>
+<div class="textblock"><p>Let's take a quick look at how the functions in rdesc's public API affect its state: </p><div class="dotgraph">
+<iframe scrolling="no" frameborder="0" src="dot_parser-state-machine.svg" width="1414" height="251"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 <p>It is fair to say that this FSM describes the inner workings of the parser reasonably well when the user does not provide invalid input and the grammar being matched is simple. However, in fact rdesc is a "pushdown automaton," and not a simple one. Multiple stacks affect its state transmission!</p>
 <dl class="section user"><dt></dt><dd>The rdesc parser uses two main stacks: the token backtracking stack and the CST stack. The token backtracking stack is used for variant checking: If a variant fails, tokens are pushed onto this backtracking stack and consumed in the next match attempt (rdesc_resume). The CST stack, on the other hand, is the structure containing the matched parse tree. It contains nonterminal and token nodes, which is the structure we access via <code><a class="el" href="cst__macros_8h.html" title="Macros for accessing fields of node structs.">cst_macros.h</a></code>.</dd></dl>
 <h1><a class="anchor" id="states_sec"></a>
