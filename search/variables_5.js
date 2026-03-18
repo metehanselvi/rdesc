@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['globalvalue_0',['globalValue',['../file_8h.html#a4a86bef4b6181cb3f53bd0461a9a511b',1,'file.h']]],
-  ['globvar_1',['globVar',['../autolink_8cpp.html#a88d0bae800d600a11d7bd60f0bc4b858',1,'autolink.cpp']]]
+  ['nt_5fbody_5flength_0',['nt_body_length',['../structrdesc__grammar.html#a4ae4c04b1ed018c4a410ac6a78816013',1,'rdesc_grammar']]],
+  ['nt_5fcount_1',['nt_count',['../structrdesc__grammar.html#afc01b0905063d4cdef921331f1cdd538',1,'rdesc_grammar']]],
+  ['nt_5fvariant_5fcount_2',['nt_variant_count',['../structrdesc__grammar.html#a11125423a2ff72f91a3fc62d11b34888',1,'rdesc_grammar']]]
 ];

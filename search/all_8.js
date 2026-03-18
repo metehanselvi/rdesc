@@ -1,4 +1,8 @@
 var searchData=
 [
-  ['handler_0',['handler',['../classJavadoc__Test.html#ace81a523a4eef44501a841a6d338832b',1,'Javadoc_Test::handler()'],['../classQTstyle__Test.html#a79dd4e5498f09057775a819d911349e2',1,'QTstyle_Test::handler()']]]
+  ['machine_0',['Parser State Machine',['../parser_state_machine.html',1,'']]],
+  ['main_20page_1',['Main Page',['../index.html',1,'']]],
+  ['management_2',['Memory Management',['../stack_8h.html#autotoc_md1',1,'']]],
+  ['mapping_20for_20identifiers_3',['Name Mapping for Identifiers',['../rule__macros_8h.html#prefix_sec',1,'']]],
+  ['memory_20management_4',['Memory Management',['../stack_8h.html#autotoc_md1',1,'']]]
 ];

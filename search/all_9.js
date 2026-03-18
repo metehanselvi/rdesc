@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['id_0',['id',['../structrdesc__cfg__symbol.html#a32cce9fb0a4fb022341b316a9999f5e8',1,'rdesc_cfg_symbol::id()'],['../structrdesc__cfg__token.html#a0612a20fed9196bc877d30bf23c3927e',1,'rdesc_cfg_token::id()'],['../structrdesc__cfg__nonterminal.html#ab08c051bf552f12e9f16b1d13c0d3c33',1,'rdesc_cfg_nonterminal::id()']]],
-  ['ieee_1',['ieee',['../classmux__using__with.html#a44d1d60c58066d98a072e90b31c9d908',1,'mux_using_with']]],
-  ['include_5ftest_2',['Include_Test',['../classInclude__Test.html',1,'']]]
+  ['name_20mapping_20for_20identifiers_0',['Name Mapping for Identifiers',['../rule__macros_8h.html#prefix_sec',1,'']]],
+  ['nt_1',['NT',['../rule__macros_8h.html#a2f2eaf0cccb54c48b26a1747e777997b',1,'rule_macros.h']]],
+  ['nt_5fbody_5flength_2',['nt_body_length',['../structrdesc__grammar.html#a4ae4c04b1ed018c4a410ac6a78816013',1,'rdesc_grammar']]],
+  ['nt_5fcount_3',['nt_count',['../structrdesc__grammar.html#afc01b0905063d4cdef921331f1cdd538',1,'rdesc_grammar']]],
+  ['nt_5fvariant_5fcount_4',['nt_variant_count',['../structrdesc__grammar.html#a11125423a2ff72f91a3fc62d11b34888',1,'rdesc_grammar']]]
 ];
